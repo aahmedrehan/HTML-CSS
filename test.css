@@ -1,0 +1,55 @@
+<style type="text/css">
+	
+h1 {
+font-family: Lucida Sans Unicode;
+font-size: 31px;
+padding-right: 1025px;
+
+}
+
+.d {
+font-family: Georgia; 
+color : grey;
+font-size: 20px;
+padding-left: 325px;
+padding-right: 325px;
+word-spacing: 1px;
+
+}
+
+span {
+font-family: Georgia; 
+color : grey;
+font-size: 19px;
+
+}
+
+.df {
+font-family: Georgia; 
+color : grey;
+font-size: 20px;
+padding-left: 325px;
+padding-right:293px;
+word-spacing: 3px;
+
+}
+
+
+.dff {
+font-family: Georgia; 
+color : grey;
+font-size: 20px;
+padding-left: 325px;
+padding-right:293px;
+word-spacing: 3px;
+}
+
+
+
+/*.right {
+color: blue;
+padding-left: 1000px;
+}*/
+
+
+</style>
